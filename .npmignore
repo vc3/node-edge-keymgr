@@ -1,0 +1,13 @@
+node_modules/
+
+# .NET user-specific and temp files
+*.suo
+*.user
+bin/
+obj/
+
+packages/
+
+npm-debug.log
+
+src/

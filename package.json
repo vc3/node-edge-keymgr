@@ -1,0 +1,24 @@
+{
+  "name": "edge-keymgr",
+  "version": "1.0.0",
+  "description": "Simple API for accessing the Windows Credential Manager.",
+  "main": "./lib/edge-keymgr.js",
+  "scripts": {
+    "example": "node example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vc3/node-windows-credential-manager.git"
+  },
+  "keywords": ["edge", "net", "clr", "c#", "managed", ".net", "credentials", "windows"],
+  "author": "Bryan Matthews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vc3/edge-keymgr/issues"
+  },
+  "homepage": "https://github.com/vc3/edge-keymgr#readme",
+  "dependencies": {
+    "edge": "^5.0.0"
+  }
+}
