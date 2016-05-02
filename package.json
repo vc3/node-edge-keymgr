@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vc3/node-windows-credential-manager.git"
+    "url": "git+https://github.com/vc3/edge-keymgr.git"
   },
   "keywords": ["edge", "net", "clr", "c#", "managed", ".net", "credentials", "windows"],
   "author": "Bryan Matthews",
