@@ -1,5 +1,8 @@
 node_modules/
 
+# NPM packages
+edge-keymgr-*.tgz
+
 # .NET user-specific and temp files
 *.suo
 *.user
