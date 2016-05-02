@@ -3,6 +3,10 @@ edge-keymgr
 
 Simple API for accessing the Windows Credential Manager.
 
+This project uses [edge](http://tjanczuk.github.io/edge) in order to call a .NET assembly ([Windows Credentials Manager Api](https://www.nuget.org/packages/Simple.CredentialManager)) from node.
+
+The name comes from the dll name of the Windows Credential Manager => Run: `control keymgr.dll`.
+
 ## Install
 
 `npm install edge-keymgr`
