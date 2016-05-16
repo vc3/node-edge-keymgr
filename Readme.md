@@ -13,6 +13,8 @@ The name comes from the dll name of the Windows Credential Manager => Run: `cont
 
 ## Example
 
+For each 'Sync' method below, there is a corresponding async version, which also takes a callback argument.  
+
 ```js
 
 var keymgr = require('edge-keymgr');
